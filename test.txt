@@ -3,3 +3,5 @@ When you run the  command, it will remove all the text and other content from yo
 
 To use the  command, simply type  and press Enter.
 This will clear the terminal window. You can also use the keyboard shortcut  to achieve the same effect.clearclearCtrl + L
+
+git
