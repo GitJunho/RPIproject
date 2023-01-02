@@ -1,0 +1,7 @@
+The  command is used to clear the terminal screen.
+When you run the  command, it will remove all the text and other content from your terminal window, allowing you to start with a clean slate.clearclear
+
+To use the  command, simply type  and press Enter.
+This will clear the terminal window. You can also use the keyboard shortcut  to achieve the same effect.clearclearCtrl + L
+
+Here is an example of how you can use the  command:clear
